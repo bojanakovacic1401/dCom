@@ -1,4 +1,5 @@
-﻿using Common;
+// Implementirana logika periodičnog očitavanja
+using Common;
 using System;
 using System.Threading;
 
