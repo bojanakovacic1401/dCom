@@ -1,4 +1,5 @@
-﻿using Common;
+//
+using Common;
 using Modbus.FunctionParameters;
 using System;
 using System.Collections.Generic;
