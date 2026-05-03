@@ -117,3 +117,5 @@ Ako `RtuCfg.txt` ne postoji u izlaznom folderu, aplikacija pokušava da traži k
 ## Autor
 
 Projekat je pripremljen/popravljen kao studentski ili vežbovni Modbus/WPF projekat za demonstraciju komunikacije, akvizicije i obrade tačaka.
+
+Bojana Kovacic PR150/2022
